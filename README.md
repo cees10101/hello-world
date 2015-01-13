@@ -1,2 +1,3 @@
 # hello-world
-getting to know github
+getting to know github today
+
